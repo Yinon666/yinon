@@ -1,0 +1,110 @@
+.contenedor {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    flex-wrap: row-reverse;
+}
+
+
+.contenedor div {
+    text-align: center;
+    background-color: rgb(9, 7, 7);
+    height: 30px;
+    width: 30px;
+    font-family: 'Noto Serif Hebrew', serif;
+    font-size: 30px;
+    text-shadow: 0 0 2px white, 0 0 5px white, 0 0 15px rgb(74, 217, 222), 0 0 2px white;
+    color: rgb(225, 220, 220);
+    
+}
+.contenedor div:hover{
+    text-shadow: 0 0 2px rgb(229, 145, 11), 0 0 5px rgb(235, 205, 11), 0 0 15px rgb(219, 204, 38), 0 0 2px rgb(161, 128, 46);
+    color: rgb(227, 144, 36);
+
+}
+
+
+.uno {
+    
+}
+.dos {
+ 
+}
+.tres {
+  
+}
+.cuatro {
+   
+}
+.sinco {
+
+}
+.seis {
+    
+}
+.siete {
+   
+}
+.ocho {
+
+}
+.nueve {
+    
+}
+.diez {
+  
+}
+.once {
+ 
+}
+.doce {
+   
+}
+.tresce {
+    
+}
+.catorce {
+
+}
+.quince {
+
+}
+.dieciseis {
+   
+}
+.diecisiete {
+   
+}
+.dieciocho {
+ 
+}
+.diecinueve {
+
+}
+.veinte {
+
+}
+.veintiuno {
+  
+}
+.veintidos {
+   
+}
+.veintitres {
+  
+}
+.veinticuatro {
+    
+}
+.veinticinco {
+  
+}
+.veintiseis {
+    
+}
+.veinticiete:hover {
+
+}
+.veintiocho:hover {
+    
+}
